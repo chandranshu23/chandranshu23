@@ -1,7 +1,7 @@
 # Hi there, I'm Chandranshu! 👋
 
 ### 🚀 Data Scientist & Big Data Engineer
-Currently pursuing a **Post-Graduate Diploma in Big Data Analytics (PG-DBDA)** at **CDAC-ACTS, Pune**. I specialize in building scalable ML pipelines and analyzing massive datasets.
+Currently pursuing a **Post-Graduate Diploma in Big Data Analytics (PG-DBDA)** at **CDAC-ACTS, Pune**. I specialize in building ML pipelines and analyzing massive datasets.
 
 ---
 
