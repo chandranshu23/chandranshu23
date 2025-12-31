@@ -23,16 +23,11 @@ Currently pursuing a **Post-Graduate Diploma in Big Data Analytics (PG-DBDA)** a
 * **B.Tech Capstone:** [AI-Synthesized Voice Detection](https://github.com/chandranshu23/AI-Synthesized-voice-detection) 
   * *Tech: Librosa, CNN.* Achieved **95.76% accuracy** detecting deepfakes using OpenSLR/AI4Bharat.
 
----
-
-### 📊 GitHub Stats
-![Chandranshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandranshu23&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandranshu23&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/chandranshu-amola](https://www.linkedin.com/in/chandranshu-amola-68bb18226/)
-* **Email:** [chandranshu23amola@gmail.com](mailto:chandranshu23amola@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chandranshu-amola-68bb18226/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandranshu23amola@gmail.com)
 
 *"Data is the new oil, but only if you know how to refine it."*
